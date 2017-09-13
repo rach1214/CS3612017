@@ -59,7 +59,7 @@ $ git commit -m 'Add all the octocat txt files'
 
 $ git log
 
-$ git remote add origin https://github.com/try-git/try_git.git
+$ git remote add origin 
 
 $ git push -u origin master
 
